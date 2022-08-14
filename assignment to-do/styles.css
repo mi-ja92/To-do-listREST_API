@@ -1,0 +1,44 @@
+* {
+    background-color: black;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin:5px;
+}
+
+.newclass {
+    color:white;
+    font-size: large;
+}
+
+button {
+    height: 40px;
+    width:100px;
+    background-color: white;
+    color:black;
+
+}
+
+.input {
+    height:30px;
+    width:300px;
+
+}
+
+#list {
+    transform:translateX(-20px)
+}
+
+title {
+    font-size:xx-large
+}
+
+img {
+    height:40px;
+    width:40px;
+    background-color: white;
+}
