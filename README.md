@@ -1,4 +1,8 @@
-# Assignment-To-Do-List
+Basic to-do list (REST API)
+
+![image](https://user-images.githubusercontent.com/102415578/226106194-e17b0287-7efe-4c9a-a4b0-f72f92ab233d.png)
+
+Winc REST API : https://github.com/WincAcademy/local_api
 
 Requirements:
 As a user, I want to see an input field in which I can enter my task.
